@@ -13,7 +13,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`IA e Assistentes de Voz na Rotina do Idoso`|`SOUZA, FARINA, FLORIAN/2021; BARBOSA e OKIMOTO/2022`|`Ambos os artigos convergem ao afirmar que o uso de assistente de voz digital e automação residencial reduz a barreira tecnológica e promove autonomia e segurança para os idosos que moram sozinhos.`|`SOUZA, FARINA e FLORIAN focam em uma visão ambla de robôs cuidadores e Inteligência Artifical em residências; BARBOSA e OKIMOTO concentram-se na nas Assistentes Pessoas Digitais(APDs) como Tecnologias Assistivas Digitais (DATs) `|`Ambas as pesquisas foram bibliográficas e documentais, sem testes práticos ou validação em campo com idosos.`|`Falta de estudo Longitudinais que avaliem o impacto a longo prazo dessas tecnologias na solidão e saúde mental dos usuários idosos.`|
+|IA e Assistentes de Voz na Rotina do Idoso|SOUZA, FARINA, FLORIAN/2021; BARBOSA e OKIMOTO/2022|Ambos os artigos convergem ao afirmar que o uso de assistente de voz digital e automação residencial reduz a barreira tecnológica e promove autonomia e segurança para os idosos que moram sozinhos.|SOUZA, FARINA e FLORIAN focam em uma visão ambla de robôs cuidadores e Inteligência Artifical em residências; BARBOSA e OKIMOTO concentram-se na nas Assistentes Pessoas Digitais(APDs) como Tecnologias Assistivas Digitais (DATs) |Ambas as pesquisas foram bibliográficas e documentais, sem testes práticos ou validação em campo com idosos.|Falta de estudo Longitudinais que avaliem o impacto a longo prazo dessas tecnologias na solidão e saúde mental dos usuários idosos.|
+|IHC, Usabilidade e Design Empático|KAWAMOTO, GARCÍA, RODRIGUÉZ e VELA/2026|-|-|-|-|
 
 ## Roteiro da revisão da literatura
 
