@@ -16,7 +16,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 1. `Identifcar quais são as áreas específicas dentro do tema mais importantes`
 2. `Analisar possíveis rotas e utilidades, ou como IAs já estão sendo utilizadas`
-3. `Anilisar como futuramente tais ferramentas podem ser usadas`
+3. `Analisar como futuramente tais ferramentas podem ser usadas`
 
 ## Quadro de alinhamento
 

@@ -6,15 +6,14 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `Tecnologias de Inteligência Artificial e Assistentes Virtuais Baseadas em Voz no Auxílio Diário aos Idosos.`
+2. `Fatores de Interação Humano-Computador(IHC), Usabilidade e Design Empático. `
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`IA e Assistentes de Voz na Rotina do Idoso`|`SOUZA, FARINA, FLORIAN/2021; BARBOSA e OKIMOTO/2022`|`Ambos os artigos convergem ao afirmar que o uso de assistente de voz digital e automação residencial reduz a barreira tecnológica e promove autonomia e segurança para os idosos que moram sozinhos.`|`SOUZA, FARINA e FLORIAN focam em uma visão ambla de robôs cuidadores e Inteligência Artifical em residências; BARBOSA e OKIMOTO concentram-se na nas Assistentes Pessoas Digitais(APDs) como Tecnologias Assistivas Digitais (DATs) `|`Ambas as pesquisas foram bibliográficas e documentais, sem testes práticos ou validação em campo com idosos.`|`Falta de estudo Longitudinais que avaliem o impacto a longo prazo dessas tecnologias na solidão e saúde mental dos usuários idosos.`|
 
 ## Roteiro da revisão da literatura
 
