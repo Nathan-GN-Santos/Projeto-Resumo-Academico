@@ -18,15 +18,15 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 * [x] Tema, problema e objetivos estão alinhados.
 * [x] As conclusões respondem ao problema.
 * [x] Não existem afirmações sem fonte quando a fonte é necessária.
-* [ ] As limitações do trabalho foram reconhecidas.
+* [x] As limitações do trabalho foram reconhecidas.
 * [x] Não foram incluídos resultados inexistentes.
 
 ## Citações e referências
 
 * [x] Toda obra citada aparece nas referências.
 * [x] Toda referência listada foi citada no texto.
-* [] Citações diretas contêm página.
-* [] Autores, títulos, anos, DOI e links foram conferidos.
+* [x] Citações diretas contêm página.
+* [x] Autores, títulos, anos, DOI e links foram conferidos.
 * [x] O padrão exigido foi aplicado de forma consistente.
 
 ## Escrita
@@ -35,7 +35,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 * [x] Os parágrafos apresentam uma ideia principal.
 * [x] Foram corrigidos ortografia e concordância.
 * [x] Repetições e frases vagas foram eliminadas.
-* [] O texto diferencia descrição de análise crítica.
+* [x] O texto diferencia descrição de análise crítica.
 
 ## Formatação
 
@@ -44,11 +44,11 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 * [x] Tabelas e figuras possuem identificação e fonte.
 * [x] Margens, fonte, espaçamento e paginação foram conferidos.
 
-## Registro das correções
+<!-- ## Registro das correções
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
 |`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
 
-
+-->
 
