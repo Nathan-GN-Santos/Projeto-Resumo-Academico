@@ -24,7 +24,7 @@ Analisar e Identificar
 |---|---|
 | Problema | `A dúvida de como IA pode ser utilizada para ajudar as pessoas alvo` |
 | Objetivo geral | `Analisar, identificar` |
-| Resultado esperado | `Resumo explicativo` |
+| Resultado esperado | `Resumo explicativo do que foi encontrado.` |
 
 <!-- ## Produto da etapa
 
