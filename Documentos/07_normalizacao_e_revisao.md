@@ -1,46 +1,48 @@
 # Etapa 7 Normalização e revisão final
 
-## Solicitação
+<!-- ## Solicitação
 
 Revise o conteúdo, as citações, as referências e a formatação antes da entrega.
 
+-->
+
 ## Identificação
 
-* Título do artigo: `[preencher]`
+* Título do artigo: `O USO DA INTELIGÊNCIA ARTIFICIAL EM TECNOLOGIAS ASSISTIVAS PARA IDOSOS`
 * Versão revisada: `[número]`
-* Data: `[dd/mm/aaaa]`
+* Data: `15/10/2026`
 * Responsável pela conferência final: `[preencher]`
 
 ## Revisão científica
 
-* [ ] Tema, problema e objetivos estão alinhados.
-* [ ] As conclusões respondem ao problema.
-* [ ] Não existem afirmações sem fonte quando a fonte é necessária.
+* [x] Tema, problema e objetivos estão alinhados.
+* [x] As conclusões respondem ao problema.
+* [x] Não existem afirmações sem fonte quando a fonte é necessária.
 * [ ] As limitações do trabalho foram reconhecidas.
-* [ ] Não foram incluídos resultados inexistentes.
+* [x] Não foram incluídos resultados inexistentes.
 
 ## Citações e referências
 
-* [ ] Toda obra citada aparece nas referências.
-* [ ] Toda referência listada foi citada no texto.
-* [ ] Citações diretas contêm página.
-* [ ] Autores, títulos, anos, DOI e links foram conferidos.
-* [ ] O padrão exigido foi aplicado de forma consistente.
+* [x] Toda obra citada aparece nas referências.
+* [x] Toda referência listada foi citada no texto.
+* [] Citações diretas contêm página.
+* [] Autores, títulos, anos, DOI e links foram conferidos.
+* [x] O padrão exigido foi aplicado de forma consistente.
 
 ## Escrita
 
-* [ ] O texto possui sequência lógica.
-* [ ] Os parágrafos apresentam uma ideia principal.
-* [ ] Foram corrigidos ortografia e concordância.
-* [ ] Repetições e frases vagas foram eliminadas.
-* [ ] O texto diferencia descrição de análise crítica.
+* [x] O texto possui sequência lógica.
+* [x] Os parágrafos apresentam uma ideia principal.
+* [x] Foram corrigidos ortografia e concordância.
+* [x] Repetições e frases vagas foram eliminadas.
+* [] O texto diferencia descrição de análise crítica.
 
 ## Formatação
 
-* [ ] O template institucional foi respeitado.
-* [ ] Títulos e subtítulos estão padronizados.
-* [ ] Tabelas e figuras possuem identificação e fonte.
-* [ ] Margens, fonte, espaçamento e paginação foram conferidos.
+* [x] O template institucional foi respeitado.
+* [x] Títulos e subtítulos estão padronizados.
+* [x] Tabelas e figuras possuem identificação e fonte.
+* [x] Margens, fonte, espaçamento e paginação foram conferidos.
 
 ## Registro das correções
 
