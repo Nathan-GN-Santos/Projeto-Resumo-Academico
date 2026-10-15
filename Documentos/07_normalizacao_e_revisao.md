@@ -7,11 +7,10 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 -->
 
 ## Identificação
-
+<!-- * Versão revisada: `[número]` -->
 * Título do artigo: `O USO DA INTELIGÊNCIA ARTIFICIAL EM TECNOLOGIAS ASSISTIVAS PARA IDOSOS`
-* Versão revisada: `[número]`
 * Data: `15/10/2026`
-* Responsável pela conferência final: `[preencher]`
+* Responsável pela conferência final: `ISABELLA LUIZA DOS SANTOS SOUZA`
 
 ## Revisão científica
 
