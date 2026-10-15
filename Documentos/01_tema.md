@@ -2,8 +2,8 @@
 
 ## Identificação
 
-- Grupo: `[preencher]`
-- Integrantes: [Nathan Gabriel](https://github.com/Nathan-GN-Santos), Riquelme, Kevin Lucas
+<!-- - Grupo: `[preencher]` -->
+- Integrantes: [Nathan Gabriel](https://github.com/Nathan-GN-Santos)
 - Data: `24/09/2026`
 
 ### Área geral
