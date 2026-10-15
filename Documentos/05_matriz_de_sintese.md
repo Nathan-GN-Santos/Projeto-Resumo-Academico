@@ -18,28 +18,28 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Roteiro da revisão da literatura
 
-### Eixo 1
+### Eixo 1: Tecnologias de Inteligência Artificial e Assistentes Virtuais Baseadas em Voz no Auxílio Diário aos Idosos.
 
 * Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Evidências que serão usadas: `Os dados demográficos do IBGE/IPEA sobre o envelhecimento nacional e o levantameno de souluções feitas no artigo 1 e 3, como Alexa, Google Assistant e robos cuidadores.`
+* Comparação entre estudos: `Enquanto o artigo 1 classifica as soluções entre dispositivos residências inteligêntes e robôs humanóides espeficos, o Artigo 3 aprofunda o conceito através de DATs(Tecnologias Assistivas Digitais)`
+* Ligação com o problema: `Responde diretamente ao problemaa da pesquisa em como a IA pode ser usada para auxiliar a população idosa.`
 
-### Eixo 2
+### Eixo 2: Fatores de Interação Humano-Computador(IHC), Usabilidade e Design Empático.
 
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
+* Ideia principal: `Evidenciar que a tecnologia só é adotada pelo idoso se houver preocupação com a usabilidade, a estética livre de estigma médico e a empatia no design.`
+* Evidências que serão usadas: `A revisão dos 42 artigos e os 7 estudos de caso feita por Kawamoto no Artigo 2.`
+* Comparação entre estudos: `Este eixo complemeta o anteriro ao demonstrar que não basta apenas oferecer um solução tecnógica como colocar uma Alexa na casa do idoso, mas é preciso também projetar a interface e usabilidade, conosiderando fatores emocionais, cognitivos e limitações sensoriais.`
+* Ligação com o problema: `Justifica que o desenvolvimento de sistemas assistivos exigem métrica de IHC e design humanizados para garantir a aceitação e o uso contínuo.`
 
 ## Síntese crítica provisória
 
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
+`Os artigos demonstra um grande consenso sobre IA e assistentes virtuais acionadas por voz têm enorme potencial para promover autonomia, segurança e qualidade vida para população idosa. No entatno o métodos foram direntes, onde o artigo 1 e 3 focaram no mapeamento de hardware, softwares e automações do mercado, o artigo 2 foca na análise aprofundamente na IHC  e design empático. Como todos os artigos baseiam-se em revisões teóricas e levatamento de documentos e dados , identifica-se uma lacuna na realização de tetse práticos de usabilidade e ambientes reais com idosos. `
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
+* [x] As divergências foram registradas.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 

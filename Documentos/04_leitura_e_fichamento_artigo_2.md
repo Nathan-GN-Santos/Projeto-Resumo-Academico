@@ -2,7 +2,7 @@
 
 ## Identificação do artigo
 
-* Referência completa: `Empathy-Driven Assistive Technologies for Older Adults: A Narrative Review and Practical Implementation Framework; André Luiz Satoshi Kawamoto;Universidade Tecnol´ogica Federal do Paraná Campo Mourão-PR, Brazil  `
+* Referência completa: `Empathy-Driven Assistive Technologies for Older Adults: A Narrative Review and Practical Implementation Framework; André Luiz Satoshi Kawamoto;Universidade Tecnológica Federal do Paraná Campo Mourão-PR, Brazil; Alberto Hitos García,Patricia Paderewski Rodríguez,Francisco Luís Gutiérrez Vela,Universidad de Granada, Spain `
 * DOI ou URL: `https://doi.org/10.19153/cleiej.29.1.4`
 * Base de origem: `Vol. 29 No. 1 (2026): Regular papers and Selected papers from the Iberoamerican Human-Computer Interaction Conference 2025`
 * Leitor responsável: `Nathan G.N. Santos`

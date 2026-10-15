@@ -46,7 +46,7 @@
 
 >   `"Este estudo exploratório e bibliográfico, com abordagem qualitativa, teve como objetivo identificar como assistentes pessoais digitais são utilizadas como suporte à autonomia de idosos em suas necessidades de interação e acesso a serviços em seu dia a dia. Neste contexto, buscou-se averiguar se estas tecnologias podem ser consideradas uma Tecnologia Assistiva Digital."`
 
-Página: `[número]`
+Página: `1`
 
 ## Checklist
 
